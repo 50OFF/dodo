@@ -1,0 +1,4 @@
+opencv_python==4.13.0.92
+pandas==3.0.1
+ultralytics==8.4.30
+numpy>=1.24
